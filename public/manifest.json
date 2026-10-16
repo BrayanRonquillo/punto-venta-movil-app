@@ -1,0 +1,12 @@
+{
+  "background_color": "#111827",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Punto de venta Móvil",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "PuntoVenta",
+  "start_url": "/",
+  "theme_color": "#111827",
+  "description": "Aplicación de punto de venta e inventario para tiendas"
+}
