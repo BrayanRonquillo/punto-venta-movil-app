@@ -1,12 +1,17 @@
 {
-  "background_color": "#111827",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "Punto de venta Móvil",
-  "orientation": "any",
-  "scope": "/",
+  "name": "Punto de venta Movil",
   "short_name": "PuntoVenta",
   "start_url": "/",
-  "theme_color": "#111827",
-  "description": "Aplicación de punto de venta e inventario para tiendas"
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#0b0f19",
+  "description": "Aplicación de punto de venta e inventario para tiendas",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
