@@ -8,9 +8,9 @@
   "description": "Aplicación de punto de venta e inventario para tiendas",
   "icons": [
     {
-      "src": "/icon-512.png",
+      "src": "/icon-512.jpeg",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/jpeg",
       "purpose": "any maskable"
     }
   ]
